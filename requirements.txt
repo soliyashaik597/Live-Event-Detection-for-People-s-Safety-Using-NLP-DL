@@ -1,0 +1,16 @@
+tkinter
+sqlite3
+pyaudio
+librosa
+numpy
+scipy
+spacy
+nltk
+torch
+transformers
+openai-whisper
+vosk
+groq
+streamlit
+plotly
+pillow  # for images in tkinter
