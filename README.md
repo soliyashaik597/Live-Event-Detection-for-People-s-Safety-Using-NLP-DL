@@ -32,9 +32,6 @@ An AI-based system that detects emergency situations from real-time voice and te
 5. Assign severity
 6. Send alert
 
-## 🔹 Screenshots
-(Add your images here)
-
 ## 🔹 Future Improvements
 - Improve model accuracy
 - Add mobile integration
